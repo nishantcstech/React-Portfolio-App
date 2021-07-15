@@ -5,9 +5,9 @@ import project3 from '../assets/project3.png';
 const PROJECTS = [
     {
         id: 1,
-        title: 'Example React Application',
-        description: 'A React App that I built, involving JS and core web dev cncepts.',
-        link: 'https://github.com',
+        title: 'React Redux Todo App',
+        description: 'A Redux Application that I built, involving JS and core web dev concepts.',
+        link: 'https://github.com/nishantcstech/ToDo-React-Redux',
         image: project1
 
     },
